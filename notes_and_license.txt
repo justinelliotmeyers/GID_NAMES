@@ -1,0 +1,24 @@
+© Justin Meyers | CC BY-SA 4.0
+https://github.com/justinelliotmeyers/GID_NAMES
+9/6/2026 - GID_NAMES_V0.gpkg - TOTAL COUNT: 57,319
+9/6/2026 - GID_NAMES_V1.gpkg - US update. Added 59,935 names from https://www.usgs.gov/us-board-on-geographic-names/domestic-names TOTAL COUNT:117,254
+9/9/2026 - GID_NAMES_V2.gpkg - IRELAND update. Updated 51 names and codes. Added 769 names. OS Open Built Up Areas - https://data-osi.opendata.arcgis.com/datasets/osi::cso-urban-areas-national-statistical-boundaries-2022-ungeneralised/about TOTAL COUNT: 118,023
+9/12/2026 - GID_NAMES_V3.gpkg - 
+
+
+
+RAW_DATA
+IRELAND:
+CSO Urban Areas - National Statistical Boundaries - 2022 - Ungeneralised
+https://data-osi.opendata.arcgis.com/datasets/osi::cso-urban-areas-national-statistical-boundaries-2022-ungeneralised/about
+CC BY 4.0 License
+
+UK:
+OS Open Built Up Areas
+https://www.ordnancesurvey.co.uk/products/os-open-built-up-areas
+https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+
+US:
+Geographic Names Information System (GNIS)
+https://www.usgs.gov/us-board-on-geographic-names/domestic-names
+Public Domain
